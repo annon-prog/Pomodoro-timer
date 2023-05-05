@@ -1,0 +1,1 @@
+This is a personal project aimed at creating a flip-clock designed as a pomodoro timer, complete with work and rest buttons, allowing for customized work and rest intervals. As a frequent user of the pomodoro technique during my study hours, I consider this an excellent starting project for my personal development.
